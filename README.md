@@ -1,1 +1,1 @@
-# Water_Quality_Prediction_Intel_OneAPI_Hackathon
+# Water Quality Prediction Intel OneAPI Hackathon
