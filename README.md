@@ -130,7 +130,7 @@ MinMax scaling is applied to standardize the feature values within a specified r
 PCA is performed to reduce the dimensionality of the dataset while retaining 95% of the variance. This dimensionality reduction can help improve model performance and reduce computational complexity.
 
 ## AFTER PREPROCESSING:
-the preprocessing steps have transformed the raw dataset into a format suitable for machine learning. This includes handling missing data, encoding categorical features, scaling the data, addressing class imbalance, reducing dimensionality.
+The preprocessing steps have transformed the raw dataset into a format suitable for machine learning. This includes handling missing data, encoding categorical features, scaling the data, addressing class imbalance, reducing dimensionality.
 
 
 ## Intel® AI Analytics Toolkit (AI Kit):
