@@ -54,7 +54,7 @@ Filling null values with the mode (most frequent value) is a common practice in 
 •	Interpretability
 
 ### Class Distribution Analysis:
-Label imbalance occurs when the number of data points in each class is.
+Label imbalance occurs when the number of data points in each class is unbalanced.
 We check of label imbalance which turnrns out to be not roughly equal, leading to a significant difference in class frequencies.
 
 ![image](https://github.com/dishitamohan/Water_Quality_Prediction_Intel_OneAPI_Hackathon/assets/92173465/75f37449-8fdd-4689-87e0-1df663676e0a)
