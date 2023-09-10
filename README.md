@@ -175,18 +175,17 @@ The Passive Aggressive Classifier is a machine learning algorithm suited for bin
 When judging different machine learning models for the specific task, several metrics are used to assess the performance. 
 
 #### Classification Metrics:
-**Accuracy:** 
-It measures the proportion of correctly classified instances out of the total. It's suitable for balanced datasets.
-**Precision:**
-Also known as positive predictive value, it measures the proportion of true positive predictions out of all positive predictions. It's useful when false positives are costly.
-**Recall (Sensitivity or True Positive Rate):**
-It measures the proportion of true positive predictions out of all actual positives. It's useful when false negatives are costly.
-**F1-Score:** 
-The harmonic mean of precision and recall. It balances precision and recall and is useful when there's an imbalance between classes.
-**ROC AUC (Receiver Operating Characteristic Area Under the Curve):** 
-It measures the model's ability to distinguish between positive and negative classes. It's particularly useful when you want to evaluate the **trade-off between true positive rate and false positive rate across different thresholds.
-**Precision-Recall Curve:**
-It visualizes the trade-off between precision and recall at various thresholds. It's useful when class imbalance is significant.
+**Accuracy:** It measures the proportion of correctly classified instances out of the total. It's suitable for balanced datasets.
+
+**Precision:** Also known as positive predictive value, it measures the proportion of true positive predictions out of all positive predictions. It's useful when false positives are costly.
+
+**Recall (Sensitivity or True Positive Rate):** It measures the proportion of true positive predictions out of all actual positives. It's useful when false negatives are costly.
+
+**F1-Score:** The harmonic mean of precision and recall. It balances precision and recall and is useful when there's an imbalance between classes.
+
+**ROC AUC (Receiver Operating Characteristic Area Under the Curve):** It measures the model's ability to distinguish between positive and negative classes. It's particularly useful when you want to evaluate the trade-off between true positive rate and false positive rate across different thresholds.
+
+**Precision-Recall Curve:** It visualizes the trade-off between precision and recall at various thresholds. It's useful when class imbalance is significant.
 
 
 | Model               | F1-Score|Precision| Recall  | Accuracy| ROC AUC |
