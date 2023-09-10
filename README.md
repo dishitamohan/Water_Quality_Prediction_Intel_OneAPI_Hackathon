@@ -210,7 +210,11 @@ It visualizes the trade-off between precision and recall at various thresholds. 
 
 ### Based on these metrics, the XGBoost and Decision Tree models appear to perform exceptionally well, achieving perfect scores in many metrics.
 
+## Role of Intel® AI Analytics Toolkit (AI Kit)
 
+During the Intel OneAPI hackathon, the Intel Toolkit empowered us to tackle complex problems more efficiently compared to the regular sklearn library. Its comprehensive set of tools and optimizations allowed us to harness the full potential of modern hardware, achieving significant performance gains and accelerating my project's development.
+
+In summary, the Intel OneAPI Toolkit offered a comprehensive suite of tools and libraries that were finely tuned for Intel hardware. This gave you a significant advantage during the hackathon by improving performance, enabling parallelism, and providing detailed insights into your code's efficiency. While sklearn is a valuable library for machine learning and data analysis, it may not offer the same level of hardware-specific optimizations and parallel computing capabilities that the Intel Toolkit provides, making it a powerful choice for high-performance computing and accelerated development in specific domains.
 					
 
 
