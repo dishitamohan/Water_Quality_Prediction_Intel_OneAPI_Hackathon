@@ -199,9 +199,13 @@ It visualizes the trade-off between precision and recall at various thresholds. 
 
 #### In this table:
 **F1-Score:** Measures the balance between precision and recall. Higher values indicate a better balance.
+
 **Precision:** Indicates the ability of the model to make accurate positive predictions. Higher precision means fewer false positives.
+
 **Recall:** Measures the model's ability to capture positive instances. Higher recall means fewer false negatives.
+
 **Accuracy:** Overall model accuracy.
+
 **ROC AUC:** Area Under the Receiver Operating Characteristic (ROC AUC) curve, which represents the model's ability to discriminate between positive and negative classes. A higher value indicates better discrimination.
 
 ### Based on these metrics, the XGBoost and Decision Tree models appear to perform exceptionally well, achieving perfect scores in many metrics.
