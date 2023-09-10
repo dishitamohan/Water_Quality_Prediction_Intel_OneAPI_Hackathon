@@ -6,6 +6,10 @@ Freshwater is one of our most vital and scarce natural resources, making up just
 The given dataset serves as a valuable resource for this purpose. By leveraging advanced analytics and predictive modeling, we can evaluate the quality of water based on a range of crucial parameters, allowing us to make informed decisions about its fitness for human consumption.
 The suggested solution offers comprehensive exploration of various machine learning models and techniques applied to this dataset. From Logistic Regression to Random Forest, Passive Aggressive Classifier, Decision Tree Classifier, AdaBoost, and Neural Network, each model plays a role in evaluating water quality. These analyses offer valuable insights into the performance and effectiveness of different machine learning approaches in solving this critical real-world problem.
 
+## Role of Intel® AI Analytics Toolkit (AI Kit)
+
+During the Intel OneAPI hackathon, the Intel Toolkit empowered us to tackle complex problems more efficiently compared to the regular sklearn library. Its comprehensive set of tools and optimizations allowed us to harness the full potential of modern hardware, achieving significant performance gains and accelerating my project's development.
+
 ## Data analysis, visualization and preprocessing:
 
 The provided dataset comprises of **5,956,842** data points, with **23 feature columns** and **1 target** column showing target label (sustainability of sample).
@@ -210,9 +214,6 @@ It visualizes the trade-off between precision and recall at various thresholds. 
 
 ### Based on these metrics, the XGBoost and Decision Tree models appear to perform exceptionally well, achieving perfect scores in many metrics.
 
-## Role of Intel® AI Analytics Toolkit (AI Kit)
-
-During the Intel OneAPI hackathon, the Intel Toolkit empowered us to tackle complex problems more efficiently compared to the regular sklearn library. Its comprehensive set of tools and optimizations allowed us to harness the full potential of modern hardware, achieving significant performance gains and accelerating my project's development.
 
 In summary, the Intel OneAPI Toolkit offered a comprehensive suite of tools and libraries that were finely tuned for Intel hardware. This gave you a significant advantage during the hackathon by improving performance, enabling parallelism, and providing detailed insights into your code's efficiency. While sklearn is a valuable library for machine learning and data analysis, it may not offer the same level of hardware-specific optimizations and parallel computing capabilities that the Intel Toolkit provides, making it a powerful choice for high-performance computing and accelerated development in specific domains.
 					
